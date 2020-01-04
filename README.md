@@ -26,23 +26,39 @@ CodingAI members will join the slack to request invite in here
 # Welcome to CodingAI 2020
 Follow these steps to make your first pull request:
 
+## Installing
+
+```
+npm i
+```
+
+## Using
+
+```
+npm start
+```
+
+## Contributing
+
 1. Fork this repository.
 
 2. Clone your forked repository to your local machine.
 
-3. Take any issue from issues list and create the PR.
+3. Create a branch: `git checkout -b <branch_name>`.
 
-4. Write these commands on your terminal:
+4. Take any issue from issues list and work on the issue.
+
+5. To commit your work, write these commands in your terminal:
     ```
     git add -A
     git commit -m "your name"
     git push origin master
     ```
-5. Then create your pull request.
+6. Then create your pull request.
 
-6. Star this repository.
+7. Star this repository.
 
-7. Congratulations!! You have successfully created your pull request.
+8. Congratulations!! You have successfully created your pull request.
 
 
 ## README translations
